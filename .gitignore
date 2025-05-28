@@ -1,0 +1,101 @@
+# OS generated files
+.DS_Store           # macOS
+Thumbs.db           # Windows
+ehthumbs.db
+Desktop.ini
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Dependency directories
+node_modules/        # Node.js
+venv/                # Python virtualenv
+__pycache__/         # Python cache
+*.pyc                # Python compiled files
+*.pyo
+*.pyd
+.Python
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy, Pylint, Pytest, Coverage
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# VS Code Python settings
+.vscode/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+venv/
+*.log
+
+# Web frontend
+node_modules/
+build/
+dist/
+
+# Editors
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
